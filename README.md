@@ -1,7 +1,7 @@
 # ⚖️ LegalTech AI Assistant
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900"/>
+  <img src="screenshots/Dashboard.png" width="900"/>
 </p>
 
 <p align="center">
